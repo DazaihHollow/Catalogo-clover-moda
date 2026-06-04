@@ -1,0 +1,8 @@
+[
+  { "id": "all", "label": "Todo", "slug": "all" },
+  { "id": "mujer", "label": "Mujer", "slug": "mujer" },
+  { "id": "hombre", "label": "Hombre", "slug": "hombre" },
+  { "id": "ninos", "label": "Niños", "slug": "ninos" },
+  { "id": "accesorios", "label": "Accesorios", "slug": "accesorios" },
+  { "id": "sale", "label": "Sale", "slug": "sale" }
+]
